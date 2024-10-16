@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is for cs1200! 👋
 
 <!--
 **shivpatel06/shivpatel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
