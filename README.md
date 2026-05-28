@@ -10,5 +10,3 @@ Currently interested in:
 - AI agents and intelligent systems  
 - Search and optimization  
 - Building useful, product-focused software  
-
-Portfolio: shivportfolio.lovable.app
